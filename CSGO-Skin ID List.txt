@@ -1,3 +1,32 @@
+
+// The Fracture Collection Case Skins 
+
+
+AK-47 | Legion of Anubis - 959
+Desert Eagle | Printstream - 962
+M4A4 | Tooth Fairy-971
+Glock-18 | Vogue -963
+XM1014 | Entombed-970
+Galil AR | Connexion-972
+Tec-9 | Brother- 964
+MP5-SD | Kitbash - 974
+MAC-10 | Allure - 965
+MAG-7 | Monster Call-961
+SG 553 | Ol' Rusty- 966
+PP-Bizon | Runic -973
+P90 | Freight-969
+SSG 08 | Mainframe 001-967
+P2000 | Gnarled -960
+Negev | Ultralight-958
+P250 | Cassette- 968
+
+
+
+
+
+
+
+
 //Prisma 2 Case Skins 
 GLOCK18 | Bullet Queen - 957
 M4A1S | Player Two - 946
