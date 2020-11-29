@@ -1,2 +1,2 @@
 # Counter-Strike-Global-Offensive
-gay info etc
+Weapon info ,class ids etc...
