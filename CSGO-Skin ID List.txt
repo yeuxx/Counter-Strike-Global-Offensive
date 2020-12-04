@@ -1,4 +1,95 @@
 
+//The Control Collection Skins
+ 
+AWP | Fade=1026
+M4A1S | Blue Phosphor=1017
+USPS | Target Acquired=1027
+UMP45 | Crime Scene=1003
+FIVESEVEN | Berries And Cherries=1002
+FAMAS | Prime Conspiracy=999
+SCAR20 | Magna Carta=1028
+M4A4 | Global Offensive=993
+SSG08 | Threat Detected=996
+P2000 | Dispatch=997
+MP5SD | Nitro=798
+DUALBERETTAS | Switch Board=998
+MAG7 | Carbon Fiber=70
+DESERTEAGLE | The Bronze=992
+P250 | Forest Night=78
+CZ75AUTO | Jungle Dashed=147
+XM1014 | Charter=994
+MP9 | Army Sheen=298
+AUG | Surveillance=995
+ 
+ 
+//The Havoc Collection Skins
+ 
+AK47 | X-Ray=1004
+AWP | Silk Tiger=1029
+MAC10 | Hot Snakes=1009
+GALILAR | Phoenix Blacklight=1013
+GLOCK18 | Franklin=1016
+SG553 | Hypnotic=61
+P250 | Bengal Tiger=1030
+DESERTEAGLE | Night Heist=1006
+P90 | Tiger Pit=1015
+NEGEV | Phoenix Stencil=1012
+NOVA | Rust Coat=323
+R8REVOLVER | Phoenix Marker=1011
+MP7 | Vault Heist=1007
+UMP45 | Houndstooth=1008
+DUALBERETTAS | Heist=1005
+M249 | Predator=170
+TEC9 | Phoenix Chalk=1010
+PPBIZON | Death Rattle=293
+SAWEDOFF | Clay Ambush=1014
+ 
+ 
+//The Ancient Collection Skins
+ 
+M4A1S | Welcome to the Jungle=1001
+AK47 | Panthera onca=1018
+P90 | Run and Hide=1000
+USPS | Ancient Visions=1031
+XM1014 | Ancient Lore=1021
+MAC10 | Gold Brick=1025
+GALILAR | Dusk Ruins=1032
+AUG | Carved Jade=1033
+FAMAS | Dark Water=60
+TEC9 | Blast From the Past=1024
+MP7 | Tall Grass=1023
+CZ75AUTO | Silver=32
+P2000 | Panther Camo=1019
+G3SG1 | Ancient Ritual=1034
+SSG08 | Jungle Dashed=147
+P90 | Ancient Earth=1020
+SG553 | Lush Ruins=1022
+R8REVOLVER | Night=40
+NOVA | Army Sheen=298
+ 
+ 
+//Operation Broken Fang Case Skins
+ 
+M4A1S | Printstream=984
+GLOCK18 | Neo-Noir=988
+USPS | Monster Mashup=991
+M4A4 | Cyber Security=985
+FIVESEVEN | Fairy Tale=979
+AWP | Exoskeleton=975
+SSG08 | Parallax=989
+DUALBERETTAS | Dezastre=978
+UMP45 | Gold Bismuth=990
+NOVA | Clear Polymer=987
+CZ75AUTO | Vendetta=976
+GALILAR | Vandal=981
+P250 | Contaminant=982
+MP5SD | Condition Zero=986
+G3SG1 | Digital Mesh=980
+M249 | Deep Relief=983
+P90 | Cocoa Rampage=977
+
+
+
 // The Fracture Collection Case Skins 
 
 
