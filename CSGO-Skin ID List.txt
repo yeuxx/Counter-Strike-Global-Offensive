@@ -1,3 +1,33 @@
+NEW GLOVES
+Sport->
+Slingshot ::  10073
+Big Game  ::   10074
+Nocts  ::  10076
+Scarlet Shamagh    ::   10075
+Driver->
+Snow Leopard  ::   10070
+Black Tie   ::   10072
+Rezan the Red   ::  10069
+Queen Jaguar ::  10071
+Wraps->
+CAUTION ::    10084
+Desert Shamagh ::   10081
+Constrictor ::  10083
+Giraffe  :: 10082
+Moto->
+Blood Pressure  :: 10079
+Finish Line :: 10077
+Smoke Out :: 10078
+3rd Commando Company ::  10080
+Specialist->
+Tiger Strike  :: 10067
+Lt. Commander :: 10066
+Field Agent :: 10068
+Broken Fang (hydra maybe )
+Jade :: 10085
+Needle Point :: 10087
+Yellow-Banded :: 10086
+Unhinged :: 10088
 
 //The Control Collection Skins
  
