@@ -31,7 +31,7 @@ enum classid {
 	CBreachChargeProjectile,
 	CBreakableProp,
 	CBreakableSurface,
-	CC4,
+	CC4= 129, // you can fix your shity c4 timer
 	CCascadeLight,
 	CChicken,
 	CColorCorrection,
