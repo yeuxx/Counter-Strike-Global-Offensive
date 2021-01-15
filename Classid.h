@@ -31,7 +31,7 @@ enum classid {
 	CBreachChargeProjectile,
 	CBreakableProp,
 	CBreakableSurface,
-	CC4= 129, // you can fix your shity c4 timer
+	CC4,
 	CCascadeLight,
 	CChicken,
 	CColorCorrection,
@@ -125,7 +125,7 @@ enum classid {
 	CPhysPropLootCrate,
 	CPhysPropRadarJammer,
 	CPhysPropWeaponUpgrade,
-	CPlantedC4,
+	CPlantedC4= 129, // you can fix your shity c4 timer
 	CPlasma,
 	CPlayerResource,
 	CPointCamera,
